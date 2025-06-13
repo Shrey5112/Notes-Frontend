@@ -1,16 +1,25 @@
-<<<<<<< HEAD
-# Notes-Frontend
-=======
-# React + Vite
+# Notes App – Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the React frontend for a simple Notes application where users can create, view, edit, and delete notes.
 
-Currently, two official plugins are available:
+## 📦 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React.js
+- Axios
+- Bootstrap (for styling)
+- CSS
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 0046b80 (first commit)
+- Create and save notes
+- Edit existing notes
+- Delete notes with confirmation
+- Search notes by title or content
+- Responsive and clean UI
+
+## 🛠 Setup Instructions
+
+1. **Clone the frontend repo**
+   ```bash
+   git clone https://github.com/Shrey5112/Notes-Frontend.git
+   cd Notes-Frontend
