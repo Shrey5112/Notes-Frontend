@@ -15,7 +15,7 @@ This is the React frontend for a simple Notes application where users can create
 - Edit existing notes
 - Delete notes with confirmation
 - Search notes by title or content
-- Responsive and clean UI
+- Timestamp
 
 ## 🛠 Setup Instructions
 
@@ -23,3 +23,5 @@ This is the React frontend for a simple Notes application where users can create
    ```bash
    git clone https://github.com/Shrey5112/Notes-Frontend.git
    cd Notes-Frontend
+   npm install
+   npm run dev
